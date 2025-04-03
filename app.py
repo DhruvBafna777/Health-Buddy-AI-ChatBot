@@ -37,7 +37,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     .stApp {
-        background-color: #000000;
+        background-color: #262730;
     }
     .chat-message {
         padding: 1.5rem;
