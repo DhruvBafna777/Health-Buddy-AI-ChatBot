@@ -51,11 +51,11 @@ st.markdown("""
         margin-left: 20%;
     }
     .assistant-message {
-        background-color: #ffffff;
+        background-color: #000000;
         margin-right: 20%;
     }
     .stTextInput > div > div > input {
-        background-color: #ffffff;
+        background-color: #000000;
         border-radius: 10px;
         padding: 1rem;
     }
