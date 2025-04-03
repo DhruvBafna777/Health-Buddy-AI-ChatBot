@@ -39,6 +39,9 @@ st.markdown("""
     .stApp {
         background-color: #262730;
     }
+    .sttitle{
+        background-color: #fff;
+    }
     .chat-message {
         padding: 1.5rem;
         border-radius: 10px;
