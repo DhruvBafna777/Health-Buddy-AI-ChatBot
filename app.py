@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from groq import Groq
 
 load_dotenv()
-client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+client = Groq(api_key = st.secrets["GROQ_API_KEY"])
 
 system_prompt = """You are a healthcare expert with 10+ years of experience. You only answer questions related to healthcare. 
 If a question is not about healthcare, politely refuse with: "I can only answer healthcare-related questions. Please ask about health, diet, exercise, or medical topics."
