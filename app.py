@@ -51,7 +51,7 @@ st.markdown("""
         margin-left: 20%;
     }
     .assistant-message {
-        background-color: #272930;
+        background-color: #26274D;
         margin-right: 20%;
     }
     .stTextInput > div > div > input {
