@@ -47,7 +47,7 @@ st.markdown("""
         flex-direction: column;
     }
     .user-message {
-        background-color: #273530;
+        background-color: #26274D;
         margin-left: 20%;
     }
     .assistant-message {
