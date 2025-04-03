@@ -47,15 +47,15 @@ st.markdown("""
         flex-direction: column;
     }
     .user-message {
-        background-color: #e3f2fd;
+        background-color: #273530;
         margin-left: 20%;
     }
     .assistant-message {
-        background-color: #000000;
+        background-color: #272930;
         margin-right: 20%;
     }
     .stTextInput > div > div > input {
-        background-color: #000000;
+        background-color: #272930;
         border-radius: 10px;
         padding: 1rem;
     }
